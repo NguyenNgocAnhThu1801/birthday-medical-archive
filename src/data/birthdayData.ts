@@ -17,22 +17,19 @@ export const birthdayData = {
       id: "01",
       date: "GIAI ĐOẠN 01",
       title: "Lần đầu gặp anh",
-      description: "Nhịp tim có dấu hiệu thay đổi gần như ngay lập tức. Chẩn đoán ban đầu: Một sự kết nối khá đặc biệt.",
-      image: "/photos/photo-01.jpg"
+      description: "Nhịp tim có dấu hiệu thay đổi gần như ngay lập tức. Chẩn đoán ban đầu: Một sự kết nối khá đặc biệt."
     },
     {
       id: "02",
       date: "GIAI ĐOẠN 02",
       title: "Những ngày có anh",
-      description: "Những cuộc trò chuyện kéo dài đến khuya, đôi khi cãi lộn -.- Nụ cười xuất hiện thường xuyên hơn bình thường.",
-      image: "/photos/photo-02.jpg"
+      description: "Những cuộc trò chuyện kéo dài đến khuya, đôi khi cãi lộn -.- Nụ cười xuất hiện thường xuyên hơn bình thường."
     },
     {
       id: "03",
       date: "GIAI ĐOẠN 03",
       title: "Hôm nay — Sinh nhật anh",
-      description: "Chúc mừng sinh nhật anh. Vị bác sĩ lúc nào cũng bận rộn, nhưng vẫn luôn là người rất đặc biệt với em.",
-      image: "/photos/photo-03.jpg"
+      description: "Chúc mừng sinh nhật anh. Vị bác sĩ lúc nào cũng bận rộn, nhưng vẫn luôn là người rất đặc biệt với em."
     }
   ],
   reasons: [

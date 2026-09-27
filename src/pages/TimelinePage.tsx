@@ -40,23 +40,7 @@ export const TimelinePage: React.FC<{ onNext: () => void }> = ({ onNext }) => {
                 <h3 className="font-sans text-xl font-bold text-gray-900">{item.title}</h3>
                 <p className="font-sans text-gray-700 leading-relaxed font-medium">{item.description}</p>
                 
-                {item.image && (
-                  <div className="mt-5 rounded-lg overflow-hidden border border-white/50 shadow-sm">
-                    {/* Using a placeholder that looks good, but the src comes from the data */}
-                    <div className="aspect-video w-full bg-gray-200 relative group-hover:opacity-100 opacity-90 transition-opacity">
-                      <div className="absolute inset-0 flex items-center justify-center text-gray-400 font-mono text-xs">
-                        [ IMAGE PLACEHOLDER ]
-                      </div>
-                      <img 
-                        src={item.image} 
-                        alt={item.title} 
-                        className="w-full h-full object-cover relative z-10 opacity-0 transition-opacity duration-300"
-                        onLoad={(e) => (e.currentTarget.style.opacity = '1')}
-                        onError={(e) => (e.currentTarget.style.opacity = '0')}
-                      />
-                    </div>
-                  </div>
-                )}
+              
               </div>
             </motion.div>
           ))}
