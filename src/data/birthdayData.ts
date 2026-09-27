@@ -1,7 +1,7 @@
 export const birthdayData = {
   patient: {
-    name: "Bác Sĩ Của Em",
-    age: "Tuổi Đẹp Nhất",
+    name: "Bác Sĩ Của Bé Thư",
+    age: "36 tuổi",
     occupation: "Doctor / Hero",
     recordId: "PAT-0001",
     vitalStatus: "100% đẹp trai",
@@ -56,7 +56,7 @@ export const birthdayData = {
   prescription: {
     date: "Hôm nay",
     items: [
-      { id: "01", text: "1.000.000 cái ôm và vài nụ hôn nhân ngày sinh nhật." },
+      { id: "01", text: "1.000.000 cái ôm và vài nụ hôn từ bé Thư nhân ngày sinh nhật." },
       { id: "02", text: "Nghỉ ngơi đầy đủ, ăn uống đàng hoàng, và nhớ chăm sóc bản thân." },
       { id: "03", text: "Thêm thật nhiều thời gian để đi chơi và ở cạnh nhau." }
     ],
@@ -65,7 +65,7 @@ export const birthdayData = {
     sideEffects: [
       "vui hơn bình thường",
       "cười nhiều hơn",
-      "có người yêu bên cạnh",
+      "có người yêu thương bên cạnh",
       "và có thể hơi nhớ em"
     ]
   },
@@ -78,6 +78,6 @@ export const birthdayData = {
       "Tuổi mới rồi, mong anh vẫn là anh — vẫn giỏi, vẫn tử tế, vẫn đáng yêu, và nhớ dành thêm một chút thời gian cho em.",
       "Chúc mừng sinh nhật anh."
     ],
-    signoff: "P.S.\nĐọc xong rồi thì đóng website lại nhé.\nEm còn một thứ khác cho anh. ❤️"
+    signoff: "P.S.\nĐọc xong rồi thì đóng website lại nhé.\nEm còn một thứ khác cho anh. ❤️\n\nDeveloper: your Babe - Nguyễn Ngọc Anh Thư"
   }
 };
