@@ -17,7 +17,7 @@ export const birthdayData = {
       id: "01",
       date: "GIAI ĐOẠN 01",
       title: "Lần đầu gặp anh",
-      description: "Nhịp tim có dấu hiệu thay đổi gần như ngay lập tức. Chẩn đoán ban đầu: Một sự kết nối khá đặc biệt."
+      description: "Nhịp tim thay đổi ngay khi anh xuất hiện. Chưa rõ bệnh gì, nhưng chắc không phải bệnh của anh =))) "
     },
     {
       id: "02",
@@ -29,21 +29,21 @@ export const birthdayData = {
       id: "03",
       date: "GIAI ĐOẠN 03",
       title: "Hôm nay — Sinh nhật anh",
-      description: "Chúc mừng sinh nhật anh. Vị bác sĩ lúc nào cũng bận rộn, nhưng vẫn luôn là người rất đặc biệt với em."
+      description: "Chúc mừng sinh nhật anh. Bác sĩ lúc nào cũng bận rộn, nhưng vẫn luôn là người rất đặc biệt với em."
     }
   ],
   reasons: [
-    { id: "01", text: "Sự tận tụy của anh khi chăm sóc người khác." },
+    { id: "01", text: "Sự tận tụy của anh khi chăm sóc người khác, dù hay quên chăm sóc bản thân =.= " },
     { id: "02", text: "Nụ cười của anh sau những ngày làm việc dài." },
-    { id: "03", text: "Cái vẻ rất đáng yêu của anh mỗi khi tập trung làm việc." },
+    { id: "03", text: "Dáng vẻ nghiêm túc của anh mỗi khi tập trung làm việc." },
     { id: "04", text: "Ở cạnh anh luôn có cảm giác rất yên tâm." },
-    { id: "05", text: "Sự kiên nhẫn và dịu dàng của anh, ngay cả trong những lúc mệt." },
+    { id: "05", text: "Mệt muốn xỉu nhưng vẫn kiên nhẫn với em." },
     { id: "06", text: "Nghe em lèm bèm bla bla dù anh buồn ngủ." },
     { id: "07", text: "Vì đơn giản là anh." }
   ],
   diagnosis: {
-    primary: "QUÁ TẢI CẤP TÍNH VÌ TÌNH YÊU & HẠNH PHÚC.",
-    mechanism: "Bệnh nhân có sức hút hơi quá mức, khiến nhịp tim của em thường xuyên hoạt động ngoài kế hoạch.",
+    primary: "QUÁ TẢI CẤP TÍNH VÌ ÔM VIỆC HƠI NHIỀU.",
+    mechanism: "bệnh nhân vẫn bình thường, còn em thì không ",
     prognosis: "Khá tốt.",
     treatment: [
       "những cái ôm",
@@ -78,6 +78,6 @@ export const birthdayData = {
       "Tuổi mới rồi, mong anh vẫn là anh — vẫn giỏi, vẫn tử tế, vẫn đáng yêu, và nhớ dành thêm một chút thời gian cho em.",
       "Chúc mừng sinh nhật anh."
     ],
-    signoff: "P.S.\nĐọc xong rồi thì đóng website lại nhé.\nEm còn một thứ khác cho anh. ❤️\n\nDeveloper: your Babe - Nguyễn Ngọc Anh Thư"
+    signoff: "P.S.\nĐọc xong rồi thì đóng website lại nhé.\nEm còn thứ khác cho anh. ❤️\n\nDeveloper: your Babe - Nguyễn Ngọc Anh Thư"
   }
 };
