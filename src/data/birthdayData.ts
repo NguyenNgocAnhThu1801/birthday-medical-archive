@@ -3,7 +3,7 @@ export const birthdayData = {
     name: "Bác Sĩ Của Bé Thư",
     age: "36 tuổi",
     occupation: "Doctor / Hero",
-    recordId: "PAT-0001",
+    recordId: "PAT-21-10",
     vitalStatus: "100% đẹp trai",
     status: "Ổn định. Chỉ là đang lớn thêm một tuổi."
   },
